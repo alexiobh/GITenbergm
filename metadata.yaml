@@ -1,0 +1,25 @@
+_repo: Beskrivelser-og-tegninger-af-0xd8ster-Marie-Kirke-med-s0xe6rlig-hensyn-til-den-oprindelige-fo__61722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clemmensen, Andreas Lauritz
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '51583'
+    url: http://www.gutenberg.org/2009/agents/51583
+    wikipedia: http://www.gutenberg.org/da.wikipedia
+description: ''
+gutenberg_issued: '2020-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61722'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church architecture -- Denmark'
+- GITenberg
+title: Beskrivelser og tegninger af Øster Marie Kirke med særlig hensyn til den oprindelige
+  form.
+url: http://www.gutenberg.org/ebooks/61722
