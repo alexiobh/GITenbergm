@@ -1,5 +1,8 @@
 _repo: Beskrivelser-og-tegninger-af-0xd8ster-Marie-Kirke-med-s0xe6rlig-hensyn-til-den-oprindelige-fo__61722
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61722-h/images/cover.jpg
 creator:
   author:
     agent_name: Clemmensen, Andreas Lauritz
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51583
     wikipedia: http://www.gutenberg.org/da.wikipedia
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61722#Beskrivelser-og-tegninger-af-0xd8ster-Marie-Kirke-med-s0xe6rlig-hensyn-til-den-oprindelige-fo_
 gutenberg_issued: '2020-03-31'
 gutenberg_type: Text
 identifiers:
